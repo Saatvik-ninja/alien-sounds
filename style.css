@@ -1,0 +1,13 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+}
+#conrol{
+    color: yellow;
+}
+#play{
+    color: rgb(115, 255, 0);
+}
+#start_button{
+    width: 100px;
+}
